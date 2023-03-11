@@ -1,0 +1,74 @@
+.tools{
+    background-color:rgb(235, 235, 174) ;
+    height: 40px;
+    /* width: 1280px; */
+    margin-top: 0px;
+    
+    
+}
+
+.toolsAlign{
+    margin-left: 10px;
+    gap: 30px;
+    padding-top: 10px;
+    display: flex;
+    
+}
+
+.tools1{
+    background-color:rgb(235, 235, 174) ;
+    gap: 30px;
+    display:flex;
+    margin-top: -10px;
+    height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: -10px;
+    width: 240px;
+}
+
+.tools2{
+    background-color:rgb(235, 235, 174) ;
+    gap: 30px;
+    display: flex;
+    margin-top: -10px;
+    /* margin-bottom: 20px; */
+    height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: -10px;
+}
+
+.tools3{
+    background-color:rgb(235, 235, 174) ;
+    gap: 30px;
+    display: flex;
+    margin-top: -10px;
+    /* margin-bottom: 20px; */
+    height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: -10px;
+}
+
+.order{
+    padding-top: 10px;
+    size: 10px;
+}
+
+.textEditor{
+    border:groove 5px black;
+    height: 475px;
+}
+
+input{
+   width: 73px;
+   margin-left: -30px;
+   height: fit-content;
+   margin-top: 7px;
+}
+
+.posi{
+    margin-left: 545px;
+}
+
